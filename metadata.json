@@ -1,0 +1,6 @@
+{
+  "name": "CropShield AI",
+  "description": "AI Crop Health Companion for smart plant disease diagnosis, organic remedies, weather risk alerts, and farmer voice assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
